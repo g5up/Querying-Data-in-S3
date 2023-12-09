@@ -189,10 +189,17 @@ Table should be listed below if done properly
 
 <br/><p align="center"><br/><img src="https://imgur.com/n27dgz6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/> 
 
-<h2>Task 3: Task 5: Query table in Athena:</h2>
+<h2>Task 5: Query table in Athena:</h2>
 
 SQL query capabilities of Amazon Athena to interact with and analyze the data stored in the created table. By executing SQL statements in the Athena Query Editor.
 
+Make sure you are in the N.Virginia Region.
+
+Navigate to Services menu in the top, then click on Athena in the Analytics section.
+
+In the left sidebar, Click on Query Editor
+
+Switch the G5UOWorkgroup at the top right.
 
 
 
