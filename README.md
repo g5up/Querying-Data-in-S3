@@ -22,13 +22,43 @@ h2>Languages and Utilities Used</h2>
 <br />
 <br />
 <h1>Step by Step:</h1>
-<h2>Architecture Diagram:</h2>
+<h2>Task 1: Sign in to AWS Management Console:</h2>
+ Once Signed In to the AWS Management Console, make the default AWS Region as US East (N. Virginia) us-east-1.
 <p align="center">
 <br/>
-<img src="https://imgur.com/bIs9YQw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BmKYyNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+
+<h2>Task 2: Setup workgroup:</h2>
+The workgroup allows users to define specific configurations and settings for their query execution environment. By creating a workgroup, users can customize parameters such as query result location, encryption settings, and query execution options.<br />
+<br />
+Make sure you are in the N.Virginia Region.
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/XP1TTCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Navigate to Services menu in the top, then click on Athena in the Analytics section.
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/XD2xiSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+Select the Analyze your data using PySpark and Spark SQL and then click on Launch notebook editor button.
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/VMr8tIi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+Provide details to create a workgroup:
+
+Workgroup Name: Enter myg5uworkGRP
+
+Description: Workgroup for g5up group
 
 
 
