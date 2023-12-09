@@ -68,9 +68,43 @@ Upgrade Query engine: Select Automatic
 <img src="https://imgur.com/JQTQMHa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
  
-Query result configuration: Select the S3 bucket, whose name is starting with whizlabs... by clicking on Browse S3 button.
+Query result configuration: Select the S3 bucket adiop-cloud by clicking on Browse S3 button.
 
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/Fm0NRjM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
  
+Leave other settings as default
+
+Click on the Create Workgroup button.
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/qcB63cY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+<h2>Task 3: Create a database in Glue:</h2>
+AWS Glue is a fully managed extract, transform, and load (ETL) service. The database serves as a container for organizing and storing metadata related to the data tables used in Athena. It enables efficient data cataloging and data management for the subsequent tasks..<br />
+<br />
+Make sure you are in the N.Virginia Region.
+<br />
+Navigate to Services menu at the top, then click on AWS Glue in the Analytics section.
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/kl2miWg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+In the left sidebar, Under Data catalog, Click on Databases 
+
+Click on the Add database button
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/ou4640U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> 
 <!--
  ```diff
 - text in red
