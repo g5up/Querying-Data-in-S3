@@ -40,26 +40,21 @@ Make sure you are in the N.Virginia Region.
 <br/>
 <img src="https://imgur.com/XP1TTCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Navigate to Services menu in the top, then click on Athena in the Analytics section.
+Navigate to Services menu in the top, then type Athena and select Workgroups.
 <br />
 <p align="center">
 <br/>
-<img src="https://imgur.com/XD2xiSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WzJ1sBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 
-Select the Analyze your data using PySpark and Spark SQL and then click on Launch notebook editor button.
+Choose the type of engine : Select Athena SQL
+<br/>
+Upgrade Query engine: Select Automatic
 <br />
 <p align="center">
 <br/>
-<img src="https://imgur.com/VMr8tIi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JQTQMHa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
-
-Provide details to create a workgroup:
-
-Workgroup Name: Enter myg5uworkGRP
-
-Description: Workgroup for g5up group
-
 
 
  
