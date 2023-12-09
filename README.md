@@ -40,11 +40,23 @@ Make sure you are in the N.Virginia Region.
 <br/>
 <img src="https://imgur.com/XP1TTCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Navigate to Services menu in the top, then type Athena and select Workgroups.
+Navigate to Services menu in the top left corner, then type Athena and select Workgroups.
 <br />
 <p align="center">
 <br/>
 <img src="https://imgur.com/WzJ1sBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+
+Provide details to create a workgroup:
+
+Workgroup Name: Enter G5UPWorkgroup
+
+Description: Enter WWorkgroup for G5UP Athena group
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/ZGZDGK3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 
 Choose the type of engine : Select Athena SQL
@@ -55,7 +67,8 @@ Upgrade Query engine: Select Automatic
 <br/>
 <img src="https://imgur.com/JQTQMHa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
-
+ 
+Query result configuration: Select the S3 bucket, whose name is starting with whizlabs... by clicking on Browse S3 button.
 
  
 <!--
