@@ -1,6 +1,6 @@
-# Querying-Data-in-S3
+# Querying-Data-in-S3 with SQL
 
-<h1>Querying Data in S3 with Amazon Athena</h1>
+<h1>Querying Data in S3 with Amazon Athena with SQL</h1>
 
 
 <h2>Description</h2>
@@ -105,6 +105,22 @@ Click on the Add database button
 <br/>
 <img src="https://imgur.com/ou4640U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/> 
+
+In the pop-up menu, enter the database name as g5upgluedb and click on the Create database button.(all lower case)
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/hCYA1FM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> 
+
+The database is now created.
+<br />
+<p align="center">
+<br/>
+<img src="https://imgur.com/2agoQBq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> 
+
+ 
 <!--
  ```diff
 - text in red
