@@ -199,8 +199,9 @@ Navigate to Services menu in the top, then click on Athena in the Analytics sect
 
 In the left sidebar, Click on Query Editor
 
-Switch the G5UOWorkgroup at the top right.
+Switch the G5UPWorkgroup at the top right.
 
+<br/><p align="center"><br/><img src="https://imgur.com/04aZb9P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/> 
 
 
 
